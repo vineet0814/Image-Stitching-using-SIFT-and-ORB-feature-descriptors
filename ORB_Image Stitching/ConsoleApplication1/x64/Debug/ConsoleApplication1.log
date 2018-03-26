@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\ieeshan sharma\documents\visual studio 2015\projects\main\code\orb_image stitching\consoleapplication1\source.cpp(83): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\ieeshan sharma\documents\visual studio 2015\projects\main\code\orb_image stitching\consoleapplication1\source.cpp(147): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\IEESHAN SHARMA\Documents\Visual Studio 2015\Projects\Main\CODE\ORB_Image Stitching\x64\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\IEESHAN SHARMA\Documents\Visual Studio 2015\Projects\Main\CODE\ORB_Image Stitching\x64\Debug\ConsoleApplication1.pdb (Full PDB)
